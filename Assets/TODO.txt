@@ -1,0 +1,4 @@
+You get the crash penalty way too much. You shouldn't get it from landing flat.
+There need to actually be logically placed ramps and jump pads that lead into one another.
+The car feels really floaty and weird in the air.
+There needs to be a range limit on passengers. Like they should only spawn within 500m of the player or smth.
